@@ -7,51 +7,51 @@
     "fontColor": "#000",
     "splashColor": "#000",
     "main": {
-      "title": "동연과 영흔, 결혼합니다",
+      "title": "성현과 가은, 결혼합니다",
       "message": "서로의 가장 좋은 친구이자\n오래된 연인이었던 우리가,\n이제는 하나의 가족이 되려 합니다.\n\n함께 걸어온 시간,\n그 길 위에서 배운 사랑과 믿음을 바탕으로\n저희 두 사람이 인생의 또 다른 시작을 하려 합니다.\n\n귀한 걸음으로 축복해주시면 감사하겠습니다.\n",
       "videoSrc": "",
-      "date": "2026년 01월 24일",
+      "date": "2026년 06월 20일",
       "host": {
         "groom": {
-          "name": "김동연",
-          "relation": "차남",
+          "name": "남성현",
+          "relation": "장남",
           "parents": [
             {
               "relation": "아버지",
-              "name": "김철호"
+              "name": "남창기"
             },
             {
               "relation": "어머니",
-              "name": "김정숙"
+              "name": "강양숙"
             }
           ]
         },
         "bride": {
-          "name": "도영흔",
-          "relation": "차녀",
+          "name": "지가은",
+          "relation": "장녀",
           "parents": [
             {
               "relation": "아버지",
-              "name": "도회송"
+              "name": "지창규"
             },
             {
               "relation": "어머니",
-              "name": "허선주"
+              "name": "김미숙"
             }
           ]
         }
       },
-      "eventDetail": "2026년 01월 24일 1시 20분\n더링크호텔 3층 베일리 홀",
-      "eventDetail_without_date": "더링크호텔 3층 베일리 홀"
+      "eventDetail": "2026년 06월 20일 12시 30분\n아펠가모 반포 LL층",
+      "eventDetail_without_date": "아펠가모 반포 LL층"
     },
     "mapInfo": {
-      "address1": "더링크 호텔 서울",
-      "address2": "서울 구로구 경인로 610",
-      "naverMap": "https://map.naver.com/p/search/%EB%8D%94%EB%A7%81%ED%81%AC%20%ED%98%B8%ED%85%94/place/1070501110?c=15.00,0,0,0,dh&placePath=/home?entry=bmp&from=map&fromPanelNum=2&timestamp=202509130950&locale=ko&svcName=map_pcv5&searchText=%EB%8D%94%EB%A7%81%ED%81%AC%20%ED%98%B8%ED%85%94",
+      "address1": "아펠가모 반포 LL층",
+      "address2": "서울 서초구 반포대로 235",
+      "naverMap": "https://map.naver.com/p/entry/place/1766687615?c=15.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601132149&locale=ko&svcName=map_pcv5",
       "location": [
         {
           "title": "지하철",
-          "desc": "신도림역 도보 14분 (5분 간격 1번출구에서 셔틀 운영)\n구로역 3번출구 도보 7분"
+          "desc": "고속터미널역(3호선, 7호선, 9호선) 5번 출구(7호선)방향으로 나와 서래골공원 방면 신호등 건넌 후 첫번째 건물 (반포 효성빌딩) LL층 (지하2층)"
         },
         {
           "title": "주차장",
@@ -64,13 +64,13 @@
         "host": "신랑측",
         "accountInfo": [
           {
-            "name": "김철호, 김정숙",
+            "name": "남창기, 강양숙",
             "relation": "신랑 아버지, 어머니",
             "bank": "기업",
             "account": "600-022620-01-011"
           },
           {
-            "name": "김동연",
+            "name": "남성현",
             "relation": "신랑",
             "bank": "새마을금고",
             "account": "9003-3060-3115-1",
@@ -83,7 +83,7 @@
         "host": "신부측",
         "accountInfo": [
           {
-            "name": "도회송",
+            "name": "지창규",
             "relation": "신부 아버지",
             "bank": "신한",
             "account": "110-392-178524",
@@ -99,7 +99,7 @@
             "tossAccount": ""
           },
           {
-            "name": "도영흔",
+            "name": "지가은",
             "relation": "신부",
             "bank": "우리",
             "account": "1002-045-494771",
